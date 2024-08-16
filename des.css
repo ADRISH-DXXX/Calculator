@@ -1,0 +1,46 @@
+table
+{
+    margin:auto;
+    margin-left: 553px;
+    padding:auto;
+    border: 2px solid;
+    border-radius: 8px;
+     background-color: orange;
+}
+table,td
+{
+
+}
+body{
+    background-image: linear-gradient(black,rgba(0, 0, 0, 0)) ;
+    
+}
+input[type=button]
+{
+    background-color: orange;
+    box-shadow: 2px 2px rgb(182, 110, 249);
+    width: 50px;
+    margin: 10px;
+    color: black;
+    
+    border-radius: 10px ;
+}
+input[type=button]:hover
+{
+    background-color: red;
+}
+.box
+{
+   margin-top: 200px;
+}
+input[type=text]
+{
+    padding: 20px;
+    background-color: orange;
+    color: black;
+    border-radius: 10px;
+    margin-left: 550px;
+    width: 260px;
+    font-size: large;
+   
+}
